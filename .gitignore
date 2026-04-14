@@ -1,0 +1,6 @@
+*.pyc
+__pycache__/
+*.lua_deobf.lua
+*.luac
+.DS_Store
+Thumbs.db
