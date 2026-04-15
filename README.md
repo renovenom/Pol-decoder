@@ -25,6 +25,6 @@ A powerful Python tool to reverse obfuscation applied by the **Prometheus Lua Ob
 ## Installation
 
 ```bash
-git clone https://github.com/Devspy333/Pol-decoder.git
+git clone https://github.com/renovenom/Pol-decoder.git
 cd Pol-decoder
 pip install -r requirements.txt
